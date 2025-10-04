@@ -11,6 +11,9 @@
       --secondary-color: #4ECDC4;
     
   --font-heebo: var(--font-heebo);
+
+  --font-size-base: 1rem;
+  --rtl-direction: rtl;
 }
 
     html {
