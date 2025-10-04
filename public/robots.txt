@@ -1,0 +1,7 @@
+
+    # robots.txt for מכון כושר ביתא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://מכון-כושר-ביתא.com/sitemap.xml
