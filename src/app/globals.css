@@ -9,7 +9,9 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #FFEEAD;
       --secondary-color: #4ECDC4;
-    }
+    
+  --font-heebo: var(--font-heebo);
+}
 
     html {
       scroll-behavior: smooth;
