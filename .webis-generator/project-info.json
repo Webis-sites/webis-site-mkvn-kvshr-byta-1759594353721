@@ -1,8 +1,35 @@
 {
   "projectName": "מכון-כושר-ביתא-4353",
   "businessName": "מכון כושר ביתא",
-  "created": "2025-10-04T16:12:34.569Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו מכון כושר מוביל בתחום החינוך עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-10-04T16:13:04.124Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-mkvn-kvshr-byta-1759594353721",
+  "formData": {
+    "businessName": "מכון כושר ביתא",
+    "businessType": "מכון כושר",
+    "industry": "חינוך",
+    "businessSize": "large",
+    "description": "אנחנו מכון כושר מוביל בתחום החינוך עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#FFEEAD",
+    "secondaryColor": "#4ECDC4",
+    "typographyStyle": "minimal",
+    "animationPreference": "moderate",
+    "headline": "מכון כושר מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": false,
+    "metaDescription": "מכון כושר מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "מכון כושר, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "minimalist"
+    ]
+  }
 }
