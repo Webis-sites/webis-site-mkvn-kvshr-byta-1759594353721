@@ -1,8 +1,84 @@
 {
-  "projectName": "מכון-כושר-ביתא-4353",
-  "businessName": "מכון כושר ביתא",
-  "created": "2025-10-04T16:12:34.569Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-10-04T16:13:48.231Z",
+  "status": {
+    "totalComponents": 12,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with metadata and global styles"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized navigation bar with business name and links to page sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Bold, engaging hero section showcasing the gym's brand and primary call-to-action"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Informative section highlighting the gym's experience, expertise and educational focus"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of the gym's professional services with educational focus"
+    },
+    {
+      "name": "ProductsSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Display of the gym's fitness products and educational materials"
+    },
+    {
+      "name": "FacilitiesSection",
+      "type": "facilities",
+      "status": "pending",
+      "description": "Visual showcase of the gym's facilities and educational spaces"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer testimonials highlighting positive experiences at the gym"
+    },
+    {
+      "name": "TrainersSection",
+      "type": "team",
+      "status": "pending",
+      "description": "Showcase of the gym's professional trainers and educational staff"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information for potential clients to reach the gym"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Compelling call-to-action section to drive conversions"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with business information, links, and copyright"
+    }
+  ],
+  "repoName": "webis-site-mkvn-kvshr-byta-1759594353721"
 }
