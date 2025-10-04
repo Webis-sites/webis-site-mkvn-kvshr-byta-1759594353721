@@ -7,6 +7,7 @@ import ServicesSection from '@/components/ServicesSection';
 import ProductsSection from '@/components/ProductsSection';
 import FacilitiesSection from '@/components/FacilitiesSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
+import TrainersSection from '@/components/TrainersSection';
 
 export default function HomePage() {
   return (
@@ -20,6 +21,7 @@ export default function HomePage() {
         <ProductsSection />
         <FacilitiesSection />
         <TestimonialsSection />
+        <TrainersSection />
       </main>
     </>
   );
